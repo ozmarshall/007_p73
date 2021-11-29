@@ -20,5 +20,5 @@ body {
 }
 /*estilo al pasar el puntero encima del enlace*/
 .aside-nav a:hover{
-    color: #FFF;
+    color: rgb(133, 30, 30);
 }
